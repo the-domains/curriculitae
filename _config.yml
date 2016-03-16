@@ -1,0 +1,28 @@
+name: Curriculitae
+favicon: null
+layout_spectrum: 0.9719815289136022
+typography_spectrum: 0.6401651543565094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.20755369868129492
+  lightness: 0.3035026977304369
+  saturation: 0.1136892894282937
+  rhythmicContrast: 0.6974530420266092
+purpose: []
